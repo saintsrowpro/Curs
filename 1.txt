@@ -7,10 +7,17 @@
 <br>
 Pictures-in-motion of a fractale tree
 <br>
-<img src="https://sun1-1.userapi.com/c834600/u192169176/docs/d12/5a2bc5c3cccb/file.gif?extra=rzUNXOjSlA0Y_4cCRlGt2BFbYkD1uPhKK7dpSp8qBwdUejKGTKfmMF1JqTVx9-Fe1axyniLOjpSInkPlthNvKIpHq5yblhLZ9CiK5may3qFiNvZ_exnLBUOAkrZmdKr7tRFDc3Ibg6v95zw" title="Fractale Tree" style="border:3px solid aquamarine;" width=100 heigth=100>
-<img src="https://sun1-1.userapi.com/c834600/u192169176/docs/d12/5a2bc5c3cccb/file.gif?extra=rzUNXOjSlA0Y_4cCRlGt2BFbYkD1uPhKK7dpSp8qBwdUejKGTKfmMF1JqTVx9-Fe1axyniLOjpSInkPlthNvKIpHq5yblhLZ9CiK5may3qFiNvZ_exnLBUOAkrZmdKr7tRFDc3Ibg6v95zw" title="Fractale Tree" style="border:5px solid silver;" width=200 heigth=200>
+<img src="http://ipic.su/img/img7/fs/frac.1523207010.gif" title="Fractale Tree" style="border:3px solid aquamarine;" width=100 heigth=100>
+Фракта́л (лат. fractus — дроблёный, сломанный, разбитый) — множество, обладающее свойством самоподобия (объект, в точности или приближённо совпадающий с частью себя самого, то есть целое имеет ту же форму, что и одна или более частей). В математике под фракталами понимают множества точек в евклидовом пространстве, имеющие дробную метрическую размерность (в смысле Минковского или Хаусдорфа), либо метрическую размерность, отличную от топологической, поэтому их следует отличать от прочих геометрических фигур, ограниченных конечным числом звеньев. Самоподобные фигуры, повторяющиеся конечное число раз, называются предфракталами.
+
+Первые примеры самоподобных множеств с необычными свойствами появились в XIX веке в результате изучения непрерывных недифференцируемых функций (например, функция Больцано, функция Вейерштрасса, множество Кантора). Термин «фрактал» введён Бенуа Мандельбротом в 1975 году и получил широкую известность с выходом в 1977 году его книги «Фрактальная геометрия природы». Особую популярность фракталы обрели с развитием компьютерных технологий, позволивших эффектно визуализировать эти структуры.
+<img src="http://ipic.su/img/img7/fs/frac.1523207010.gif" title="Fractale Tree" style="border:5px solid silver;" width=200 heigth=200>
 Okay... here we go again... and again... and again... and again... and again... and again... and again... and again... and again... and again
 ayeeeeeeeeeeeeeeeeeee
+<br>
+<video>
+ <source src="https://www.youtube.com/watch?v=d_x9IXDJNy8">
+</video>
 </body>
 
 </html>
